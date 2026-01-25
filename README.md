@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/subhashb21022" target="_blank">
-    <img src="https://th.bing.com/th/id/OIP.Ig4ua5R7Tf3DfXFbF9-W1AHaHa?o=7&cb=defcachec2rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="mailto:subhashbabu869@gmail.com">
