@@ -1,9 +1,9 @@
 <h1 align="center">SUBHASH B</h1>
-<h3 align="center">B.Tech AI & ML Student | Web Developer</h3>
+<h3 align="center"> AI & ML Student | Web Developer</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/subhashb21022" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://th.bing.com/th/id/OIP.Ig4ua5R7Tf3DfXFbF9-W1AHaHa?o=7&cb=defcachec2rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"/>
   </a>
   
   <a href="mailto:subhashbabu869@gmail.com">
@@ -18,14 +18,14 @@
 - 🌱 I’m currently learning **DSA + Web Development**
 - 🤝 I’m looking to collaborate on **AI/ML Projects**
 - 💬 Ask me about **Java, Python, Web Tech**
-- ⚡ Fun fact: I love building cool projects 😄
+- ⚡ Fun fact: I love building  projects 😄
 
 ---
 
 ## 🧠 I code in
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,mysql,github" />
 </p>
 
 ---
