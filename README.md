@@ -44,3 +44,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Subhash21022&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Se25y661OO?theme=dark&font=Karma&ext=heatmap" />
+</p>
