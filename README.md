@@ -48,5 +48,5 @@
 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Se25y661OO?theme=dracula&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Se25y661OO?theme=nord&ext=heatmap" />
 </p>
