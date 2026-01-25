@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Subhi</h1>
-<h3 align="center">B.Tech AI & ML Student | Developer</h3>
+<h1 align="center">SUBHASH B</h1>
+<h3 align="center">B.Tech AI & ML Student | Web Developer</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/subhashb21022" target="_blank">
@@ -37,15 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhash21022&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
----
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Subhash21022&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 👀 Profile Views
 
