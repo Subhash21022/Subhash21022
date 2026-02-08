@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhash21022&layout=compact&theme=tokyonight" height="160"/>
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhash21022&theme=github"
      alt="GitHub Contribution Graph" />
 </p>
 
