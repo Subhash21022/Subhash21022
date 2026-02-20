@@ -15,11 +15,10 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **DSA + Web Development**
-- 🤝 I’m looking to collaborate on **AI/ML Projects**
-- 💬 Ask me about **Java, Python, Web Tech**
-- ⚡ Fun fact: I love building  projects 😄
-
+-  I’m currently learning **DSA + Web Development**
+-  I’m looking to collaborate on **AI/ML Projects**
+-  Interested in AI, web development, and building real-world projects
+-  Continuously learning and improving through hands-on practice and coding challenges.
 ---
 
 ## 🧠 I code in
