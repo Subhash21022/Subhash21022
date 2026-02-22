@@ -42,8 +42,4 @@
 
 
 <hr>
-🧩 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/subhash21022?theme=nord&ext=heatmap" />
-</p>
