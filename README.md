@@ -24,7 +24,7 @@
 ## 🧠 I code in
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,mysql,c++,github" />
+<img src="https://skillicons.dev/icons?i=java,c++,c,html,css,js,react,mysql,github" />
 </p>
 
 ---
