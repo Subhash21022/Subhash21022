@@ -15,16 +15,17 @@
 
 ## 👨‍💻 About Me
 
--  I’m currently learning **DSA + Web Development**
--  I’m looking to collaborate on **AI/ML Projects**
--  Interested in AI, web development, and building real-world projects
--  Continuously learning and improving through hands-on practice and coding challenges.
+- I’m currently learning **DSA + Web Development**
+- I’m looking to collaborate on **AI/ML Projects**
+- Interested in AI, web development, and building real-world projects
+- Continuously learning and improving through hands-on practice and coding challenges.
+
 ---
 
 ## 🧠 I code in
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,c++,c,html,css,js,react,mysql,github" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,react,mysql,github" />
 </p>
 
 ---
@@ -35,11 +36,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Subhash21022&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhash21022&layout=compact&theme=tokyonight" height="160"/>
 </p>
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhash21022&theme=github"
      alt="GitHub Contribution Graph" />
 </p>
 
-
 <hr>
-
