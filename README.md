@@ -46,5 +46,4 @@
 </p>
 
 <hr>
-![Snake animation](https://github.com/Subhash21022/Subhash21022/blob/output/github-contribution-grid-snake.svg)
-![Pac-Man Contribution Snake](https://raw.githubusercontent.com/Subhash21022/Subhash21022/output/github-contribution-grid-snake.svg)
+
