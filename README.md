@@ -16,6 +16,8 @@
 
 <hr>
 
+<img src=""C:\Users\SUBHASH B\Downloads\gssoc-badge-gssoc_champion (1).png">
+
 ## 👨‍💻 About Me
 
 - I’m currently learning **DSA + Web Development**
