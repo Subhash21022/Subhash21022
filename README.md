@@ -20,6 +20,11 @@
 
 <p align="center">
   <img src="./gssoc-badge-gssoc_champion%20(1).png" width="180" alt="GSSoC Champion Badge">
+  <img src="assets/gssoc-badge-on_a_roll.png" alt="GSSoC On A Roll Badge" width="170"/>
+  &nbsp;
+  <img src="assets/gssoc-badge-power_contributor.png" alt="GSSoC Power Contributor Badge" width="170"/>
+  &nbsp;
+  <img src="assets/gssoc-badge-elite.png" alt="GSSoC Elite Badge" width="170"/>
 </p>
 
 ## 👨‍💻 About Me
