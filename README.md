@@ -16,7 +16,11 @@
 
 <hr>
 
-<img src="C:\Users\SUBHASH B\Downloads\gssoc-badge-gssoc_champion (1).png">
+## 🏆 Achievements
+
+<p align="center">
+  <img src="./gssoc-badge-gssoc_champion%20(1).png" width="180" alt="GSSoC Champion Badge">
+</p>
 
 ## 👨‍💻 About Me
 
