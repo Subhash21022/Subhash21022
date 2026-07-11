@@ -23,6 +23,7 @@
   <img src="gssoc-badge-on_a_roll.png" width="180" alt="GSSoC On A Roll Badge"/>
   <img src="gssoc-badge-power_contributor%20(2).png" width="180" alt="GSSoC Power Contributor Badge"/>
   <img src="gssoc-badge-elite%20(1).png" width="180" alt="GSSoC Elite Badge"/>
+  <img src="gssoc-badge-rising_star.png" width="180" alt="GSSoC Rising Star Badge"/>
 </p>
 
 ## 👨‍💻 About Me
