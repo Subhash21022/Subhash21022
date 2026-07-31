@@ -19,6 +19,7 @@
 ## 🏆 Achievements
 
 <p align="center">
+  <img src="gssoc-badge-top_100.png" width="180" alt="GSSoC Top 100 Badge"/>
   <img src="gssoc-badge-gssoc_champion%20(1).png" width="180" alt="GSSoC Champion Badge"/>
   <img src="gssoc-badge-on_a_roll.png" width="180" alt="GSSoC On A Roll Badge"/>
   <img src="gssoc-badge-on_fire.png" width="180" alt="GSSoC On Fire Badge"/>
