@@ -19,13 +19,15 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="gssoc-badge-top_100.png" width="180" alt="GSSoC Top 100 Badge"/>
   <img src="gssoc-badge-gssoc_champion%20(1).png" width="180" alt="GSSoC Champion Badge"/>
+  <img src="gssoc-badge-top_100.png" width="180" alt="GSSoC Top 100 Badge"/>
+  <img src="assets/gssoc-badge-unstoppable.png" alt="GSSoC Unstoppable Badge" width="200">
   <img src="gssoc-badge-on_a_roll.png" width="180" alt="GSSoC On A Roll Badge"/>
   <img src="gssoc-badge-on_fire.png" width="180" alt="GSSoC On Fire Badge"/>
   <img src="gssoc-badge-power_contributor%20(2).png" width="180" alt="GSSoC Power Contributor Badge"/>
   <img src="gssoc-badge-elite%20(1).png" width="180" alt="GSSoC Elite Badge"/>
   <img src="gssoc-badge-rising_star.png" width="180" alt="GSSoC Rising Star Badge"/>
+  
 </p>
 
 ## 👨‍💻 About Me
