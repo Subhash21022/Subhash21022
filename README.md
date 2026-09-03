@@ -46,7 +46,6 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -55,9 +54,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhash21022&theme=github"
-     alt="GitHub Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=Subhash21022&theme=tokyonight" />
 </p>
-
-<hr>
 
