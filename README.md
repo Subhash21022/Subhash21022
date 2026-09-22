@@ -9,6 +9,11 @@
   <a href="mailto:subhashbabu869@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+   <a href="https://gssoc.girlscript.org/profile/f3c1d416-2141-4b6f-aa17-f64dc60a6671">
+    <img src="https://img.shields.io/badge/GSSoC%202026-A%20Tier-orange?style=for-the-badge" />
+  </a>
+  
 </p>
 
 
