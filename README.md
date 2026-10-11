@@ -14,8 +14,12 @@
     <img src="https://img.shields.io/badge/GSSoC%202026-A%20Tier-orange?style=for-the-badge" />
   </a>
 
-<a href="https://codolio.com/profile/Subhash-21" target="_blank">
+   <a href="https://codolio.com/profile/Subhash-21" target="_blank">
   <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
+  </a>
+
+<a href="https://www.kaggle.com/subhashb21022" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 
 </p>
