@@ -13,7 +13,11 @@
    <a href="https://gssoc.girlscript.org/profile/f3c1d416-2141-4b6f-aa17-f64dc60a6671">
     <img src="https://img.shields.io/badge/GSSoC%202026-A%20Tier-orange?style=for-the-badge" />
   </a>
-  
+
+<a href="https://codolio.com/profile/Subhash-21" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
+</a>
+
 </p>
 
 
